@@ -1,7 +1,7 @@
 people = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
-def badge_maker(name)
-  "Hello, my name is #{name}."
+def badge_maker(Lo)
+  "Hello, my name is #{Lo}."
 end
 
 def batch_badge_creator(attendees)
